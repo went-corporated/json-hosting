@@ -1,19 +1,4 @@
 ## Sans json-hosting
 
-Web Extension V1 installée.
-<br>
-Web Extension V2 disponible.
-<br>
-L'utilisateur ne saît pas qu'une update est disponible.
-
-## Avec json-hosting
-
-Web Extension V1 installée.
-<br>
-Web Extension V2 disponible.
-<br>
-Message d'information.
-<br>
-L'utilisateur télécharge l'update.
-
+Vérification de la disponibilité de MàJ
 [version.json](https://went-lab.github.io/json-hosting/version.json)
