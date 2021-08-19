@@ -15,3 +15,5 @@ Web Extension V2 disponible.
 Message d'information.
 <br>
 L'utilisateur télécharge l'update.
+
+[version.json](https://went-lab.github.io/json-hosting/version.json)
